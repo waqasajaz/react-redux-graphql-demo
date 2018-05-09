@@ -1,0 +1,17 @@
+{
+  "name": "graphql-test",
+  "version": "1.0.0",
+  "description": "qraphql test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-cli": "^2.15.14",
+    "graphql-yoga": "^1.13.1",
+    "prisma": "^1.8.0",
+    "prisma-binding": "^1.5.19"
+  }
+}
